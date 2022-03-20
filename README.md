@@ -46,6 +46,3 @@
            
 --- 
            
-# Spotify Application
-SPOTIFY_CLIENT_ID=<72407f9b77874e4b908d2c17330acf77>
-SPOTIFY_CLIENT_SECRET=<1c1c77338238435d9255a1ebf9c32333>
