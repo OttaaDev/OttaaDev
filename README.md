@@ -33,9 +33,10 @@
  alt="css3"  />  ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
            
-## Learning...
+# Learning...
            
 ![C#](https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-000000.svg?style=for-the-badge&logo=html5&logoColor=white)  ![Lua](https://img.shields.io/badge/lua-000000.svg?style=for-the-badge&logo=lua&logoColor=white) 
+           
 ---
            
 ## Stats
