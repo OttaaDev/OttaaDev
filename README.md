@@ -43,7 +43,4 @@
            
 ---     
 --- 
-
-Dont forget !
-
-[![Discord](https://img.shields.io/badge/LAW-Community-E237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/cPKc5B6Gnv)
+[![Github](https://img.shields.io/twitter/url?label=Github&logo=GithUb&style=social&url=https%3A%2F%2Fgithub.com%2FOttaaDev)](https://github.com/OttaaDev)
