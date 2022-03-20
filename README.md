@@ -38,7 +38,6 @@
 <p align="center">
   <br/>
     <a href="https://github.com/OttaaDev/github-readme-stats"><img alt="Ottaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=OttaaDev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Chaitanya-Pratap-Singh/github-readme-stats"><img alt="Chaitanya-Pratap-Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OttaaDev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=f00020" /></a>
   <br/>
 </p>
 
