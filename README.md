@@ -9,6 +9,6 @@
 ---
 
 - ⚙ Currently try somes things on Discord
-- 🛠 You can check my Repositories [here](https://github.com/DirOtta?tab=repositories).
+- 🛠 You can check my Repositories [here](https://github.com/OttaaDev?tab=repositories).
 
 See ya later !! 🐱‍👓
