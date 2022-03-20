@@ -41,12 +41,7 @@
   <br/>
 </p>
            
----
-
-![snake gif](https://raw.githubusercontent.com/OttaaDev/OttaaDev/output/github-contribution-grid-snake.svg)
-
-           
-           
+---     
 --- 
 
 Dont forget !
