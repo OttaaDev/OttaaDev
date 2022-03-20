@@ -1,7 +1,7 @@
 <h1 align="center">Ottaa.</h1> 
 
 
-[![Github](https://img.shields.io/badge/star_it_on-github-black?style=shield&logo=github)](https://github.com/OttaaDev)
+[![Github](https://img.shields.io/endpoint?label=GitHub&style=social)](https://github.com/OttaaDev)
            [![BMC](https://img.shields.io/badge/buy_me_a-coffee-FFDD00?style=shield&logo=paypal)](paypal.me/MoneymeYsa)
                    [![Discord](https://discordapp.com/api/guilds/716364441658327120/embed.png?style=shield)](https://discord.com/invite/cPKc5B6Gnv)
 
