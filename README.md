@@ -43,4 +43,4 @@
            
 ---     
 --- 
-[![Github Repo | 5](https://img.shields.io/twitter/url?label=Github&logo=GithUb&style=social&url=https%3A%2F%2Fgithub.com%2FOttaaDev)](https://github.com/OttaaDev?tab=repositories)
+https://img.shields.io/discord/939186787274879086?color=%23000000&label=Discord&logo=Discord&logoColor=%23000000
