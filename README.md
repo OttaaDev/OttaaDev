@@ -46,4 +46,4 @@
            
 --- 
 
-![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/LAW-Community-237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
