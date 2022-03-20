@@ -40,4 +40,15 @@
     <a href="https://github.com/OttaaDev/github-readme-stats"><img alt="Ottaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=OttaaDev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 </p>
+           
+           
+           
+           
+--- 
+           
+<div align="center">
+  <a href="https://open.spotify.com/user/21tp77gvhp67ypx45mcbwj3fa?si=216b2092a8514dd0">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
 
