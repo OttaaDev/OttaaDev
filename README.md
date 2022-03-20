@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Ottaa.</h1> 
 
-<!--
-**OttaaDev/OttaaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Github](https://img.shields.io/badge/star_it_on-github-black?style=shield&logo=github)](https://github.com/DirOtta)
+           [![BMC](https://img.shields.io/badge/buy_me_a-coffee-FFDD00?style=shield&logo=paypal)](paypal.me/MoneymeYsa)
+                   [![Discord](https://discordapp.com/api/guilds/716364441658327120/embed.png?style=shield)](https://discord.gg/9U4EvWpKR8)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+- ⚙ Currently try somes things on Discord
+- 🛠 You can check my Repositories [here](https://github.com/DirOtta?tab=repositories).
+
+See ya later !! 🐱‍👓
