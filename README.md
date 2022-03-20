@@ -46,4 +46,6 @@
            
 --- 
 
+Dont forget !
+
 [![Discord](https://img.shields.io/badge/LAW-Community-E237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/cPKc5B6Gnv)
