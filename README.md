@@ -46,9 +46,4 @@
            
 --- 
            
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=21tp77gvhp67ypx45mcbwj3fa">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://readme.andyruwruw.com/api/now-playing">
-  </a>
-</p>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21tp77gvhp67ypx45mcbwj3fa&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21tp77gvhp67ypx45mcbwj3fa&redirect=true)
