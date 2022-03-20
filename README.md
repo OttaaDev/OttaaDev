@@ -43,4 +43,8 @@
            
 ---     
 --- 
-https://img.shields.io/discord/939186787274879086?color=%23000000&label=Discord&logo=Discord&logoColor=%23000000
+[<img align="top" alt="discord" src="https://img.shields.io/discord/939186787274879086?color=%23000000&label=Discord&logo=Discord&logoColor=%23000000" />](
+https://discord.gg/gZJshMzQAt)
+<br>
+</div>
+<br>        
