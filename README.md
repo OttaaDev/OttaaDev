@@ -14,7 +14,7 @@
 ---
 
 <br>
-<img src ="https://drive.google.com/uc?export=view&id=1qg9c1Ek5w5ZXQjYfrSSRAxp5B6Ii-Zuf" align = "left" width = 10%>
+<img src ="https://drive.google.com/uc?export=view&id=1qg9c1Ek5w5ZXQjYfrSSRAxp5B6Ii-Zuf" align = "left" width = 20%>
 <div>
 <h2  > Connect with me</h2>
 
