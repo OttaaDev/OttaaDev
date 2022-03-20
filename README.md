@@ -46,9 +46,9 @@
            
 --- 
            
-<div align="center">
-  <a href="https://open.spotify.com/user/21tp77gvhp67ypx45mcbwj3fa?si=216b2092a8514dd0">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+<p align="center">
+  <a href="https://readme.andyruwruw.com/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://readme.andyruwruw.com/api/now-playing">
   </a>
-</div>
-
+</p>
