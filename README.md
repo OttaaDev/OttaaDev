@@ -11,4 +11,9 @@
 - ⚙ Currently try somes things on Discord
 - 🛠 You can check my Repositories [here](https://github.com/OttaaDev?tab=repositories).
 
-See ya later !! 🐱‍👓
+---
+
+<br>
+<img src ="https://drive.google.com/uc?export=view&id=1qg9c1Ek5w5ZXQjYfrSSRAxp5B6Ii-Zuf" align = "left" width = 45%>
+<div>
+<h2  > Connect with me</h2>
