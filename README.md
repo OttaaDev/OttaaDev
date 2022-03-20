@@ -25,3 +25,10 @@
 <br>  
 </div>
 <br>
+
+
+<h2 style="font-size:30px" align ="left" width = 100%><u>Tools and Technologies</u></h2>
+
+<img src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" />
+
+
