@@ -46,9 +46,6 @@
            
 --- 
            
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=21tp77gvhp67ypx45mcbwj3fa">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://readme.andyruwruw.com/api/now-playing">
-  </a>
-</p>
+# Spotify Application
+SPOTIFY_CLIENT_ID=<72407f9b77874e4b908d2c17330acf77>
+SPOTIFY_CLIENT_SECRET=<1c1c77338238435d9255a1ebf9c32333>
